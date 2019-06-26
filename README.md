@@ -1,2 +1,2 @@
-# bolao_laravel
-#projeto bolao com Laravel
+# Projeto Bolão laravel
+#construcao de um bolao utilizando o frameork laravel
